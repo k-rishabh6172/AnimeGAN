@@ -1,25 +1,9 @@
 # AnimeGAN
 
-### If you like what I'm doing you can tip me on [*patreon*](https://www.patreon.com/Asher_Chan).    
-## Let's use AnimeGANv3 to produce our own animation.  
-
-**Updates**  
-* `2022-09-18` Update a new AnimeGANv3 onnx model [**(Colab)**](https://www.patreon.com/posts/colab-of-with-72136496?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator) for Photo to Hayao Style.    
-* `2022-08-01` Added a new AnimeGANv3 onnx model [**(Colab)**](https://www.patreon.com/posts/new-animeganv3-69895469?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator) for Face to [Arcane](https://www.netflix.com/sg/title/81435684) style.    
-* `2022-07-13` Added a new AnimeGANv3 onnx model [**(Colab)**](https://colab.research.google.com/drive/1XYNWwM8Xq-U7KaTOqNap6A-Yq1f-V-FB?usp=sharing) for face to portrait sketch.
-* `2021-12-25` The paper of AnimeGANv3 will be released in 2022.:christmas_tree:  
----------  
-
 ## Usage  
 
 Without installing any other dependencies, download this repository and use AnimeGANv3's graphical user interface program (AnimeGANv3.exe) and pre-trained models (onnx.zip) to turn your photos or videos into anime.:blush:   
 
-## Demo 
-### Video to anime (Hayao Style) 
-video 1 [Download 1080p ](https://github.com/TachibanaYoshino/AnimeGANv3/releases/tag/v1.0) or [Watch it online](https://b23.tv/FgJfUek)  
-video 2 [Download 1080p ](https://github.com/TachibanaYoshino/AnimeGANv3/releases/tag/v1.0.1) or [Watch it online](https://b23.tv/us66bFI)  
-video 3 [Download 1080p ](https://github.com/TachibanaYoshino/AnimeGANv3/releases/tag/v1.0.2) or [Watch it online](https://b23.tv/u78xSms)  
-  
 ____
 ### Photo to Hayao Style    
 ![](https://github.com/TachibanaYoshino/AnimeGANv3/blob/master/results/AnimeGANv3_Hayao/32.jpg)   

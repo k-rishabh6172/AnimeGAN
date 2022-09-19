@@ -1,4 +1,4 @@
-# AnimeGANv3   
+# AnimeGAN
 
 ### If you like what I'm doing you can tip me on [*patreon*](https://www.patreon.com/Asher_Chan).    
 ## Let's use AnimeGANv3 to produce our own animation.  

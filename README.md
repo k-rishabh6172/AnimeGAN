@@ -2,7 +2,7 @@
 
 ## Usage  
 
-Without installing any other dependencies, download this repository and use AnimeGANv3's graphical user interface program (AnimeGANv3.exe) and pre-trained models (onnx.zip) to turn your photos or videos into anime.:blush:   
+Without installing any other dependencies, download this repository and use AnimeGAN's graphical user interface program (AnimeGAN.exe) and pre-trained models (onnx.zip) to turn your photos or videos into anime.:blush:   
 
 ____
 ### Photo to Hayao Style    
